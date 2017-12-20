@@ -1,4 +1,5 @@
 
+     <code>
      - Download & Install Sublime 3.
      - Install Sublime Package Manager (https://sublime.wbond.net/installation)
      - Add Soda Theme (https://github.com/buymeasoda/soda-theme)
@@ -26,3 +27,4 @@
 }
 
     - Restart Sublime
+    </code>
