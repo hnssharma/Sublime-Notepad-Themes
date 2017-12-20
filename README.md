@@ -14,23 +14,28 @@ For those who like <strong>the look & feel of Notepad++ but the awesomeness of S
 4. Add the following into <i>Preferences > Settings > User</i>
 <pre><code>
 {
-       "autoIndent": true,
-       "color_scheme": "Packages/Theme - NotepadPlusPlus/Notepad-Plus-Plus.tmTheme",
-       "copyOnMouseSelect": false,
-       "drawWhiteSpace": "none",
-       "font_face": "Courier New",
-       "font_size": 10,
-       "gutter": true,
-       "highlightLine": true,
-       "rulers": false,
-       "tab_size": 4,
-       "translate_tabs_to_spaces": true,
-       "trim_trailing_white_space_on_save": true,
-       "use_tab_stops": true,
-       "wantVerticalScrollBar": false,
-       "theme": "Soda Light.sublime-theme",
-       "ignored_packages": ["Vintage"]
+	"auto_complete": true,
+	"auto_find_in_selection": true,
+	"auto_match_enabled": true,
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/NotepadTheme/Nodepad.tmTheme",
+	"fade_fold_buttons": false,
+	"font_size": 10,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1
 }
+
 </code></pre>
 5. Restart Sublime
 
