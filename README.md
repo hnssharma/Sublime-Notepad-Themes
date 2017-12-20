@@ -33,8 +33,10 @@ For those who like <strong>the look & feel of Notepad++ but the awesomeness of S
 		"draw_active"
 	],
 	"line_padding_bottom": 1,
-	"line_padding_top": 1
+	"line_padding_top": 1,
+	"theme": "Soda Light.sublime-theme"
 }
+
 
 </code></pre>
 5. Restart Sublime
